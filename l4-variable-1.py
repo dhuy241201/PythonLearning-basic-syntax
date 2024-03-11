@@ -1,0 +1,11 @@
+x = int(3)
+y = float(3)
+z = str(3)
+_____________number = 55555555555 
+print(type(x))
+print(x)
+print(type(y))
+print(y)
+print(type(z))
+print(z)
+print(_____________number)
